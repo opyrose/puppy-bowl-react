@@ -1,0 +1,12 @@
+#all-puppys{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+body {
+  background-color: rgb(130, 198, 243);
+}
+h1 {
+  color: darkblue;
+}
